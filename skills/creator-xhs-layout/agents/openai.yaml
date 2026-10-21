@@ -1,0 +1,4 @@
+interface:
+  display_name: "creator-xhs-layout"
+  short_description: "五种独立风格的小红书轮播排版，支持本地字体、逐页出图和版面检查"
+  default_prompt: "用 $creator-xhs-layout 将我提供的文案排成小红书图文，选择合适风格并输出 PNG 和可编辑源文件。"
